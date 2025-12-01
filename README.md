@@ -2,10 +2,7 @@
 
 > Machine Learning system predicting digital advertising campaign success with 79% accuracy on unseen data.
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
-
+## PowerBI Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTEyMjFlYjAtNGE1Yi00ZWJhLWE4N2YtYzczMzFhMzEwMTBhIiwidCI6Ijk5NWM4MDQ5LWJmYjQtNGRmNy1hOTcxLTAzMzBhZmE4MDhjOSJ9
 ---
 
 ##  Project Overview
