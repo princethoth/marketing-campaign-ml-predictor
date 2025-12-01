@@ -91,8 +91,7 @@ import joblib
 import pandas as pd
 
 # Load the trained model
-with open('models/rf_campaign_predictor.pkl', 'rb') as f:
-    model = pickle.load(f)
+model = joblib.load('rf = rfc_pipiline.pkl')
 
 # Prepare your campaign data (must match training features)
 new_campaign = pd.DataFrame({
