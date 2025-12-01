@@ -366,20 +366,20 @@ Based on ML model insights and feature importance analysis:
 ### Phase 1: Historical Campaign Analysis
 
 **Executive Summary Dashboard:**
-![Executive Summary](visualizations/powerbi_dashboard_screenshots/phase1_executive_summary.png)
+![Executive Summary](visualizations/powerbi_dashboard_screenshots/phase1_executive_summary.jpg)
 
 **Engagement & Cost Analysis:**
-![Engagement Analysis](visualizations/powerbi_dashboard_screenshots/phase1_engagement_cost.png)
+![Engagement Analysis](visualizations/powerbi_dashboard_screenshots/phase1_engagement_cost.jpg)
 
 ---
 
 ### Phase 3: ML Predictions Dashboard
 
 **Model Performance & Feature Importance:**
-![Model Performance](visualizations/powerbi_dashboard_screenshots/phase3_model_performance.png)
+![Model Performance](visualizations/powerbi_dashboard_screenshots/phase3_model_performance.jpg)
 
 **What-If Campaign Simulator:**
-![What-If Simulator](visualizations/powerbi_dashboard_screenshots/phase3_whatif_simulator.png)
+![What-If Simulator](visualizations/powerbi_dashboard_screenshots/phase3_whatif_simulator.jpg)
 
 ---
 
@@ -467,7 +467,7 @@ This project demonstrates proficiency in:
 
  Email: [chidex.po@gmail.com]  
  LinkedIn: [linkedin.com/in/princethoth](https://www.linkedin.com/in/princethoth)  
- Portfolio: [yourportfolio.com](https://chidexpo.wixstudio.com/princethoth) 
+ Portfolio: [chidex.po.wixstudio.com/princethoth](https://chidexpo.wixstudio.com/princethoth) 
  GitHub: [@princethoth](https://github.com/princethoth)
 
 ---
