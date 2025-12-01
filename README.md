@@ -366,20 +366,20 @@ Based on ML model insights and feature importance analysis:
 ### Phase 1: Historical Campaign Analysis
 
 **Executive Summary Dashboard:**
-![Executive Summary](visualizations/powerbi_dashboard_screenshots/phase1_executive_summary.jpg)
+![[Executive Summary](data/notebooks/models/visualizations/powerbi_dashboard_screenshots/phase1_executive_summary.jpg)](data/notebooks/models/visualizations/powerbi_dashboard_screenshots/phase1_executive_summary.jpg)
 
 **Engagement & Cost Analysis:**
-![Engagement Analysis](visualizations/powerbi_dashboard_screenshots/phase1_engagement_cost.jpg)
+![Engagement Analysis](data/notebooks/models/visualizations/powerbi_dashboard_screenshots/phase1_engagement_cost.jpg)
 
 ---
 
 ### Phase 3: ML Predictions Dashboard
 
 **Model Performance & Feature Importance:**
-![Model Performance](visualizations/powerbi_dashboard_screenshots/phase3_model_performance.jpg)
+![Model Performance](data/notebooks/models/visualizations/powerbi_dashboard_screenshots/phase3_model_performance.jpg)
 
 **What-If Campaign Simulator:**
-![What-If Simulator](visualizations/powerbi_dashboard_screenshots/phase3_whatif_simulator.jpg)
+![What-If Simulator](data/notebooks/models/visualizations/powerbi_dashboard_screenshots/phase3_whatif_simulator.jpg)
 
 ---
 
